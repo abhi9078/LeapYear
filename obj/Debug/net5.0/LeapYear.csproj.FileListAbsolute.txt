@@ -1,0 +1,16 @@
+D:\.Net\LeapYear\LeapYear\bin\Debug\net5.0\LeapYear.exe
+D:\.Net\LeapYear\LeapYear\bin\Debug\net5.0\LeapYear.deps.json
+D:\.Net\LeapYear\LeapYear\bin\Debug\net5.0\LeapYear.runtimeconfig.json
+D:\.Net\LeapYear\LeapYear\bin\Debug\net5.0\LeapYear.runtimeconfig.dev.json
+D:\.Net\LeapYear\LeapYear\bin\Debug\net5.0\LeapYear.dll
+D:\.Net\LeapYear\LeapYear\bin\Debug\net5.0\LeapYear.pdb
+D:\.Net\LeapYear\LeapYear\obj\Debug\net5.0\LeapYear.csproj.AssemblyReference.cache
+D:\.Net\LeapYear\LeapYear\obj\Debug\net5.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\LeapYear\LeapYear\obj\Debug\net5.0\LeapYear.AssemblyInfoInputs.cache
+D:\.Net\LeapYear\LeapYear\obj\Debug\net5.0\LeapYear.AssemblyInfo.cs
+D:\.Net\LeapYear\LeapYear\obj\Debug\net5.0\LeapYear.csproj.CoreCompileInputs.cache
+D:\.Net\LeapYear\LeapYear\obj\Debug\net5.0\LeapYear.dll
+D:\.Net\LeapYear\LeapYear\obj\Debug\net5.0\refint\LeapYear.dll
+D:\.Net\LeapYear\LeapYear\obj\Debug\net5.0\LeapYear.pdb
+D:\.Net\LeapYear\LeapYear\obj\Debug\net5.0\LeapYear.genruntimeconfig.cache
+D:\.Net\LeapYear\LeapYear\obj\Debug\net5.0\ref\LeapYear.dll
